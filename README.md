@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hola! 👋
 
-<!--
-**lauraflorezt/lauraflorezt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Laura Flórez y actualmente estoy aprendiendo sobre desarrollo web front-end 🔭
 
-Here are some ideas to get you started:
+- 🌱Actualmente estoy aprendiendo JavaScript, Node.js, Css, Jest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 Busco colaborar en proyectos que me ayuden con mi crecimiento
+
+- 📬 Me puedes contactar por mi correo: lauraflorez1627@hotmail.com
+
+
+
+
