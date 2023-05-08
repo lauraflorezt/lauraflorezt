@@ -13,7 +13,7 @@
 
 *[ LinkedIn ](https://www.linkedin.com/in/laura-fl%C3%B3rez/)*
 
-*[ GitHub ](https://github.com/lauraflorezt/lauraflorezt)*
+*[ GitHub ](https://github.com/lauraflorezt)*
 
 
 
