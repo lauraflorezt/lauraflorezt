@@ -7,13 +7,13 @@
 
 *👯 Busco colaborar en proyectos que me ayuden con mi crecimiento*
 
-*📬 Para cualquier consulta, contáctame a mi ***correo*** lauraflorez1627@hotmail.com*
+*📩 Para cualquier consulta, contáctame a mi ***correo*** lauraflorez1627@hotmail.com*
 
-**Redes**
+ **Redes**
 
-*[ LinkedIn ](https://www.linkedin.com/in/laura-fl%C3%B3rez/)*
-
-*[ GitHub ](https://github.com/lauraflorezt)*
+ *[ LinkedIn ](https://www.linkedin.com/in/laura-fl%C3%B3rez/)*
+ 
+ *[ GitHub ](https://github.com/lauraflorezt)*
 
 
 
