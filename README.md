@@ -1,15 +1,19 @@
-### Hola! 👋
-
-![Very Peri and Cream Business Linkedin Banner (1)](https://user-images.githubusercontent.com/121992038/236927808-f4eed93f-c8ea-4b94-9bf0-a2fd84e9be6a.png)
+### Hola! 👋 Soy de Colombia
 
 
-Soy de Colombia y actualmente estoy aprendiendo sobre desarrollo web front-end 🔭
+![Very Peri and Cream Business Linkedin Banner (3)](https://user-images.githubusercontent.com/121992038/236929722-e20916eb-d098-4cc1-96b1-929a2072849c.png)
 
-- 🌱Actualmente estoy aprendiendo JavaScript, Node.js, Css, Jest
+*🌱Actualmente estoy aprendiendo JavaScript, Node.js, Css, Jest*
 
-- 👯 Busco colaborar en proyectos que me ayuden con mi crecimiento
+*👯 Busco colaborar en proyectos que me ayuden con mi crecimiento*
 
-- 📬 Para cualquier consulta, contáctame a mi correo lauraflorez1627@hotmail.com
+*📬 Para cualquier consulta, contáctame a mi ***correo*** lauraflorez1627@hotmail.com*
+
+**Redes**
+
+*[ LinkedIn ](https://www.linkedin.com/in/laura-fl%C3%B3rez/)*
+
+*[ GitHub ](https://github.com/lauraflorezt/lauraflorezt)*
 
 
 
